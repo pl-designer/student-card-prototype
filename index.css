@@ -998,6 +998,7 @@ body {
     border: 2.5px solid white;
     box-shadow: 0 1px 6px rgba(59, 130, 246, 0.35);
     cursor: pointer;
+    margin-top: -7px;
     transition: transform var(--t-spring), box-shadow var(--t-smooth);
 }
 
